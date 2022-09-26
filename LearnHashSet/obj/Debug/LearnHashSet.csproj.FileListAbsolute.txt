@@ -1,0 +1,7 @@
+C:\Users\scottj.SCOTTWIN10-2\source\repos\LearnHashSet\LearnHashSet\bin\Debug\LearnHashSet.exe.config
+C:\Users\scottj.SCOTTWIN10-2\source\repos\LearnHashSet\LearnHashSet\bin\Debug\LearnHashSet.exe
+C:\Users\scottj.SCOTTWIN10-2\source\repos\LearnHashSet\LearnHashSet\bin\Debug\LearnHashSet.pdb
+C:\Users\scottj.SCOTTWIN10-2\source\repos\LearnHashSet\LearnHashSet\obj\Debug\LearnHashSet.csproj.AssemblyReference.cache
+C:\Users\scottj.SCOTTWIN10-2\source\repos\LearnHashSet\LearnHashSet\obj\Debug\LearnHashSet.csproj.CoreCompileInputs.cache
+C:\Users\scottj.SCOTTWIN10-2\source\repos\LearnHashSet\LearnHashSet\obj\Debug\LearnHashSet.exe
+C:\Users\scottj.SCOTTWIN10-2\source\repos\LearnHashSet\LearnHashSet\obj\Debug\LearnHashSet.pdb
